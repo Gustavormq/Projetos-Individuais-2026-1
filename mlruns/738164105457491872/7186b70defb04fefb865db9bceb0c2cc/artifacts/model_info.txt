@@ -1,0 +1,1 @@
+Modelo zero-shot Hugging Face usado

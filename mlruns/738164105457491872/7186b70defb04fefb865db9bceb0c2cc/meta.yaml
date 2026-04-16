@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/fraud_detection/mlruns/738164105457491872/7186b70defb04fefb865db9bceb0c2cc/artifacts
+end_time: 1776299232583
+entry_point_name: ''
+experiment_id: '738164105457491872'
+lifecycle_stage: active
+run_id: 7186b70defb04fefb865db9bceb0c2cc
+run_name: silent-fly-601
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1776299221830
+status: 3
+tags: []
+user_id: gugar
